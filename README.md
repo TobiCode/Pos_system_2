@@ -8,4 +8,6 @@ You just need a CSV with following columns:
 "ID", "Menge", "Artikelname", "Menge", "Preis", "Netto Preis".
 
 
-![Home Screen](Readme_Res/1.jpeg "Home Screen")
+<p align="center">
+  <img src="Readme_Res/1.jpeg" scale="25%" title="Home Screen">
+</p>
