@@ -9,5 +9,12 @@ You just need a CSV with following columns:
 
 
 <p align="center">
-  <img src="Readme_Res/1.jpeg" scale="25%" title="Home Screen">
+  <img src="Readme_Res/1.jpeg" height="320px" title="Home Screen">
+  <img src="Readme_Res/2.png" height="320px" title="Example Csv">
+   <img src="Readme_Res/7.jpeg" height="320px" title="Delete Files Screen">
+  <img src="Readme_Res/8.jpeg" height="320px" title="Choose CSV Screen">
+  <img src="Readme_Res/3.jpeg" height="320px" title="Product Screen">
+  <img src="Readme_Res/5.jpeg" height="320px" title="CSV Read1 Screen">
+  <img src="Readme_Res/4.jpeg" height="320px" title="CSV Read2 Screen">
+  <img src="Readme_Res/6.jpeg" height="320px" title="Filter By User Id Screen">
 </p>
