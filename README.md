@@ -8,13 +8,35 @@ You just need a CSV with following columns:
 "ID", "Menge", "Artikelname", "Menge", "Preis", "Netto Preis".
 
 
-<p align="center">
+<ul align="center">
+  <li> This is the home Screen <br>
   <img src="Readme_Res/1.jpeg" height="320px" title="Home Screen">
+   </li> 
+<li> Here you see the read in orders<br>
   <img src="Readme_Res/2.PNG" height="160px" title="Example Csv">
-   <img src="Readme_Res/7.jpeg" height="320px" title="Delete Files Screen">
+  </li> 
+<li>  Delete Files Screen <br>
+  <img src="Readme_Res/7.jpeg" height="320px" title="Delete Files Screen">
+  </li> 
+<li> Choose a CSV  <br>
   <img src="Readme_Res/8.jpeg" height="320px" title="Choose CSV Screen">
+  </li> 
+<li>  Manage your products <br>
   <img src="Readme_Res/3.jpeg" height="320px" title="Product Screen">
+  </li> 
+<li> CSV Read Screen <br>
   <img src="Readme_Res/5.jpeg" height="320px" title="CSV Read1 Screen">
+  </li> 
+<li> CSV Read Screen <br>
   <img src="Readme_Res/4.jpeg" height="160px" title="CSV Read2 Screen">
+  </li> 
+<li> Filter all your orders by a Customer Id/ Customer and print all its orders for that day: 
   <img src="Readme_Res/6.jpeg" height="160px" title="Filter By User Id Screen">
-</p>
+  </li> 
+
+</ul>
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for detail
